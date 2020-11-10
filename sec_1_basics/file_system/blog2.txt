@@ -1,0 +1,1 @@
+calling writeFile() & passing it a nonexistent file create that file
