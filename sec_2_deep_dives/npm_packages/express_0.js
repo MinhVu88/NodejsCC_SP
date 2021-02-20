@@ -1,6 +1,7 @@
 const express = require("express"),
-  app = express(),
-  views_path = "D:/VS Code Programs/Node.js apps/Shaun Pelling/NodejsCrashCourse/sec_2_deep_dives/views";
+	app = express(),
+	views_path =
+		"D:/VS Code Programs/Node.js apps/Shaun Pelling/NodejsCrashCourse/sec_2_deep_dives/views";
 
 // listening for requests
 app.listen(3000);
